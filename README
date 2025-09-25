@@ -1,0 +1,24 @@
+Installation:
+
+
+
+	first install make:
+	dnf install make
+	apt-get install build-essential
+
+	make sure perl is installed:
+	dnf install perl
+	apt-get install perl
+
+	then run make from trash folder
+	make
+
+Usage:
+	trash [file/folder]
+
+
+Notes:
+	[file/folder is optional]
+	running it without an option
+	prints the default help menu
+
