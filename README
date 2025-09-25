@@ -22,3 +22,8 @@ Notes:
 	running it without an option
 	prints the default help menu
 
+
+
+Current limitations / todo:
+crontab auto clearout every x days
+move more than 1 argument
